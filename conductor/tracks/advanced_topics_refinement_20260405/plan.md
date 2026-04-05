@@ -2,12 +2,12 @@
 
 ## Phase 1: Session 6 - Regular Expressions
 
-- [ ] Task: Rewrite and Expand Session 6 Content
-    - [ ] Write Tests: Add interactive test cells verifying regex patterns, groups, lookaheads, and practical use cases
-    - [ ] Implement Feature: Rewrite prose for clarity and engagement, expand examples with real-world scenarios (log parsing, data validation, web scraping)
-- [ ] Task: Remove External Dependencies and Modernize
-    - [ ] Implement Feature: Remove all Google Drive references, ensure code uses Python 3.12+ patterns, fix bare excepts, apply Google style guide
-- [ ] Task: Conductor - User Manual Verification 'Session 6 - Regular Expressions' (Protocol in workflow.md)
+- [x] Task: Rewrite and Expand Session 6 Content
+    - [x] Write Tests: Add interactive test cells verifying regex patterns, groups, lookaheads, and practical use cases
+    - [x] Implement Feature: Rewrite prose for clarity and engagement, expand examples with real-world scenarios (log parsing, data validation, web scraping)
+- [x] Task: Remove External Dependencies and Modernize
+    - [x] Implement Feature: Remove all Google Drive references, ensure code uses Python 3.12+ patterns, fix bare excepts, apply Google style guide
+- [x] Task: Conductor - User Manual Verification 'Session 6 - Regular Expressions' (Protocol in workflow.md)
 
 ## Phase 2: Session 7 - NumPy
 
