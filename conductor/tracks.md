@@ -4,4 +4,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-*No active tracks.*
+- [ ] **Track: Improve on Advanced Topics instructional quality and depth**
+  *Link: [./tracks/advanced_topics_refinement_20260405/](./tracks/advanced_topics_refinement_20260405/)*
