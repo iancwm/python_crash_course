@@ -11,12 +11,12 @@
 
 ## Phase 2: Session 7 - NumPy
 
-- [ ] Task: Rewrite and Expand Session 7 Content
-    - [ ] Write Tests: Add interactive test cells verifying array operations, broadcasting, indexing, and mathematical functions
-    - [ ] Implement Feature: Rewrite prose for clarity and engagement, expand examples with practical data science scenarios
-- [ ] Task: Remove External Dependencies and Modernize
-    - [ ] Implement Feature: Remove all Google Drive references, update code for NumPy 1.26+/2.x patterns, fix style issues, apply Google style guide
-- [ ] Task: Conductor - User Manual Verification 'Session 7 - NumPy' (Protocol in workflow.md)
+- [x] Task: Rewrite and Expand Session 7 Content
+    - [x] Write Tests: Add interactive test cells verifying array operations, broadcasting, indexing, and mathematical functions
+    - [x] Implement Feature: Rewrite prose for clarity and engagement, expand examples with practical data science scenarios
+- [x] Task: Remove External Dependencies and Modernize
+    - [x] Implement Feature: Remove all Google Drive references, update code for NumPy 1.26+/2.x patterns, fix style issues, apply Google style guide
+- [x] Task: Conductor - User Manual Verification 'Session 7 - NumPy' (Protocol in workflow.md)
 
 ## Phase 3: Session 8 - pandas
 
