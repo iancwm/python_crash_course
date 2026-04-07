@@ -2,15 +2,15 @@
 
 ## Phase 1: Project 1 - Pokemon EDA Notebook
 
-- [ ] Task: Restructure and Expand Pokemon EDA Notebook
-    - [ ] Write Tests: Add inline assert cells verifying data integrity, correlation calculations, and distribution statistics
-    - [ ] Implement Feature: Reorganize into modular sections — Data Loading & Understanding, Data Preparation, Enhanced EDA (distributions, correlations, type comparisons)
-- [ ] Task: Add ML Practices to Pokemon EDA
-    - [ ] Write Tests: Add assert cells verifying pipeline structure, cross-validation scores, and grid search results
-    - [ ] Implement Feature: Add Scikit-learn Pipeline for predicting a Pokemon stat, with cross-validation and GridSearchCV/RandomizedSearchCV for hyperparameter tuning
-- [ ] Task: Remove External Dependencies and Modernize
-    - [ ] Implement Feature: Remove all Google Drive references, ensure Python 3.12+ patterns, apply Google style guide
-- [ ] Task: Conductor - User Manual Verification 'Project 1 - Pokemon EDA' (Protocol in workflow.md)
+- [x] Task: Restructure and Expand Pokemon EDA Notebook
+    - [x] Write Tests: Add inline assert cells verifying data integrity, correlation calculations, and distribution statistics
+    - [x] Implement Feature: Reorganize into modular sections — Data Loading & Understanding, Data Preparation, Enhanced EDA (distributions, correlations, type comparisons)
+- [x] Task: Add ML Practices to Pokemon EDA
+    - [x] Write Tests: Add assert cells verifying pipeline structure, cross-validation scores, and grid search results
+    - [x] Implement Feature: Add Scikit-learn Pipeline for predicting a Pokemon stat, with cross-validation and GridSearchCV/RandomizedSearchCV for hyperparameter tuning
+- [x] Task: Remove External Dependencies and Modernize
+    - [x] Implement Feature: Remove all Google Drive references, ensure Python 3.12+ patterns, apply Google style guide
+- [x] Task: Conductor - User Manual Verification 'Project 1 - Pokemon EDA' (Protocol in workflow.md)
 
 ## Phase 2: Project 2 - Cannabis Classification Notebook
 
