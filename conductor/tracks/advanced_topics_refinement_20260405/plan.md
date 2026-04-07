@@ -20,9 +20,9 @@
 
 ## Phase 3: Session 8 - pandas
 
-- [ ] Task: Rewrite and Expand Session 8 Content
-    - [ ] Write Tests: Add interactive test cells verifying DataFrame operations, filtering, grouping, and aggregation
-    - [ ] Implement Feature: Rewrite prose for clarity and engagement, expand examples with realistic data analysis workflows
-- [ ] Task: Remove External Dependencies and Modernize
-    - [ ] Implement Feature: Remove all Google Drive references, update code for pandas 2.x patterns (no deprecated .append, use pd.concat), fix style issues, apply Google style guide
-- [ ] Task: Conductor - User Manual Verification 'Session 8 - pandas' (Protocol in workflow.md)
+- [x] Task: Rewrite and Expand Session 8 Content
+    - [x] Write Tests: Add interactive test cells verifying DataFrame operations, filtering, grouping, and aggregation
+    - [x] Implement Feature: Rewrite prose for clarity and engagement, expand examples with realistic data analysis workflows
+- [x] Task: Remove External Dependencies and Modernize
+    - [x] Implement Feature: Remove all Google Drive references, update code for pandas 2.x patterns (no deprecated .append, use pd.concat), fix style issues, apply Google style guide
+- [x] Task: Conductor - User Manual Verification 'Session 8 - pandas' (Protocol in workflow.md)
