@@ -6,3 +6,8 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 - [ ] **Track: Improve on Advanced Topics instructional quality and depth**
   *Link: [./tracks/advanced_topics_refinement_20260405/](./tracks/advanced_topics_refinement_20260405/)*
+
+---
+
+- [ ] **Track: Enhance Project Notebooks with Rigorous EDA and ML Practices**
+  *Link: [./tracks/project_notebook_enhancement_20260407/](./tracks/project_notebook_enhancement_20260407/)*
